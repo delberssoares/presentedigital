@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://victoria-delber.vercel.app",
+      "permanent": false
+    }
+  ]
+}
